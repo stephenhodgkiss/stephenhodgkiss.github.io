@@ -1308,3 +1308,8 @@ section {
 .footer .credits a {
   color: var(--color-white);
 }
+
+.featured-image {
+  max-width:100%;
+  min-width:300px;
+}
