@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/stephenhodgkiss
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stephenhodgkiss.com
+  * I am stephenhodgkiss (https://keybase.io/stephenhodgkiss) on keybase.
+  * I have a public key ASAlBzMnORZ-uLfoO1kXsrp80WEx5vQVypZcqfLlvptUpgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202507332739167eb8b7e83b5917b2ba7cd16131e6f415ca965ca9f2e5be9b54a60a",
+      "host": "keybase.io",
+      "kid": "01202507332739167eb8b7e83b5917b2ba7cd16131e6f415ca965ca9f2e5be9b54a60a",
+      "uid": "215054ebca6f032dd7a7100fdd2fff19",
+      "username": "stephenhodgkiss"
+    },
+    "merkle_root": {
+      "ctime": 1673361597,
+      "hash": "d92d3b42aa28604a6bf73ab9c187a0649047df6d4fd4af41c1ad09b63abf4a29dc1fc00cadde9cb8db6cd8a3b44609ec347dadb7285d7637460d3dd66ae1a8ec",
+      "hash_meta": "d1fe6804826adc56cfd9a86a16ea2037f9d50e5bec6c1f45992b14e96957c5a0",
+      "seqno": 23843997
+    },
+    "service": {
+      "entropy": "opYqHSUWwh+dw/23kJKZT1ay",
+      "hostname": "stephenhodgkiss.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1673361611,
+  "expire_in": 504576000,
+  "prev": "79edffec92f5bc8630ef1925dc5046eefa8eda98d372fc9be9d1e97bd0d0c820",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJQczJzkWfri36DtZF7K6fNFhMeb0FcqWXKny5b6bVKYKp3BheWxvYWTESpcCCMQgee3/7JL1vIYw7xkl3FBG7vqO2pjTcvyb6dHpe9DQyCDEIHUj9WIFkvNVfjnE32HA10+8W9L4kCodm9CcoCzgTnxcAgHCo3NpZ8RAVUqdO2nhk61Nm34pESs9ot7kXDhaY9tDeX5uKRqYzKmZNavr3uyk5uD8nZ7d4qbbbgV3VMIvlKVWamTTAL+iDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPz/KSwrip7kJJ6ezFmtYgooBGq4/9Og/+Oo80N3JYQEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stephenhodgkiss
+
+==================================================================
